@@ -1,0 +1,33 @@
+.navbar {
+    background-color: #dc3545; 
+  }
+  
+  .navbar .nav-link-spacing {
+    color: white !important; 
+    transition: color 0.3s; 
+    margin-right: 8rem; 
+  }
+  
+  .navbar .nav-link-spacing:hover {
+    color: gold !important; 
+    border-radius: 10px;
+    font-size: 20px;
+    transition: color 0.3s;
+  }
+  
+  .d-inline-block {
+    margin-left: 50px; 
+  }
+  
+  .navy {
+    font-size: 18px;
+    color: yellow; 
+  }
+  @media (max-width: 768px) {
+    .navbar-nav {
+      margin-top: 10px; 
+    }
+    .nav-link-spacing {
+      margin-right: 10px; 
+    }
+  }

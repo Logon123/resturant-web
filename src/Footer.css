@@ -1,0 +1,11 @@
+.social-link {
+    text-decoration: none; 
+    color: aliceblue;
+  }
+  
+  .social-link:hover {
+    color: aliceblue;
+    padding: 5px;
+    text-decoration: none; 
+  }
+  
